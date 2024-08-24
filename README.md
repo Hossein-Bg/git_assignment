@@ -1,1 +1,1 @@
-# Git Assignment - <Hossein-Bg>
+# Git Assignment - Hossein-Bg
