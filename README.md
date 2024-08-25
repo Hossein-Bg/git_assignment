@@ -25,3 +25,14 @@ This create a copy of the repository under your GitHub account similar to how we
 ----------------------------------------
 
 d. Describe the steps to add a collaborator to a repository (share write permissions)
+1. Sign in to your GitHub account, then navigate to the git-assignment repo.
+2. Open the repo and click the Setting tab, which is located at the top of the page.
+3. In the left sidebar, under Access, click on Collaborators to open the collaborators management page. (you have to enter your GitHub pass to enter to the collaborators management page)
+4. Click the Add people and enter the GitHub Username, Full name or email address of the person you want to add as a collaborator, then click the add button. (Here I added Simeon as a collaborator for my git-assignment but I am not sure if he will accept my invitation or not.) 
+5. After accepting the invitation, your collaborators can push changes to the reop.
+
+----------------------------------------
+
+e. What is the difference between git and GitHub?
+
+Git is a version control system that allows programmers or developers to manage and keep track of changes in their code. On the other hand, GitHub is a cloud-based hosting service that lets you manage Git repositories.
