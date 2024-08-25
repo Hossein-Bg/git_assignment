@@ -54,3 +54,7 @@ The main branch in Git is the default branch. When anyone visits your repo and f
 
 ----------------------------------------
 
+h. Besides our initial commit if it is a new repository, should we directly push our changes directly into the main branch?
+
+Usually we shouldn't push changes directly to the main branch after initial commit. It is best to use branching strategy instead. 
+Additionally, the main branch should always contain stable code. Besides, it's important for changes to be reviewed by other team members before they are merged into the main branch. This ensures that the code meets quality standards and aligns with the project's goals. Another reason is that, by using separate branches, you can run tests on your code changes and once you are sure that the code passes all tests you can merge it safely into the main branch.
