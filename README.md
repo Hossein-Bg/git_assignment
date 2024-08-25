@@ -36,3 +36,21 @@ d. Describe the steps to add a collaborator to a repository (share write permiss
 e. What is the difference between git and GitHub?
 
 Git is a version control system that allows programmers or developers to manage and keep track of changes in their code. On the other hand, GitHub is a cloud-based hosting service that lets you manage Git repositories.
+
+----------------------------------------
+
+f. What does git diff do?
+
+The git diff command helps to see, compare, and understand changes in your project. It compares changes between commits, branches, or the working directory and the staging area. Running git diff without any parameters will show you all of your changes since you last commited.
+It can come with different parameters such as:
+* git diff "certain file" --> You will see only the changes in a certain file.
+* git diff --staged "certain file" --> By adding the --staged option, Git will show which local changes you have already added to Staging Area via "git add", and so on.
+
+----------------------------------------
+
+g. What is the main branch?
+
+The main branch in Git is the default branch. When anyone visits your repo and forks or clones it, that is the branch that gets checked out and served down locally to their machine. Besides, The main branch is the most up to date version of the project. This branch was often called master, but many projects use main as the default name for this branch.
+
+----------------------------------------
+
